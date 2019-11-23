@@ -1,3 +1,12 @@
+RELEASE 1.2.0
+Changes:
+
+    based on libartesky version 1.1.1
+	added supported languages: French, Spanish, Chinese and Japanese
+	user manual for MS Windows / GNU Linux updated
+	added supported OS: Ubuntu 18.04.2 LTS on ARM64, Raspbian 10
+	supported operating systems doc added
+
 RELEASE 1.1.0
 Changes:
 
