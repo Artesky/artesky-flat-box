@@ -1,3 +1,14 @@
+RELEASE 2.0.0
+Changes:
+
+	based on libqartesky version 1.0.0 and Qt 5.15 (MS Windows 7, 10 only)
+	added supported languages: French, Spanish, Chinese and Japanese in MS Windows XP
+	removed auto serial port close in case of connection error
+	bug fix in fast lamp switch on/off (latency)
+	change license from LGPL/EULA to LGPL
+	user manual for MS Windows updated
+	supported operating system doc updated
+
 RELEASE 1.2.0
 Changes:
 
